@@ -19,9 +19,6 @@ The repository contains the following files:
 - `Capstone project-checkpoint.ipynb`: Jupyter notebook containing the analysis and visualizations.
 - `README.md`: Project overview and instructions.
 
-## Data Source
-The data used in this project is stored in the `order_items_dataset.csv` file, which includes information about order amounts.
-
 ## Installation
 To run this project, you need to have Python installed along with the following libraries:
 - numpy
